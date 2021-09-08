@@ -1,5 +1,4 @@
-- 👋 Hi, I’m "WALID DRAÂ"
-AND I ASPIRE TO BECOME THE NUMBER #1 IN MY DOMAIN!.
+- 👋 Hi, I’m "WALID DRAÂ", AND I ASPIRE TO BECOME THE NUMBER #1 IN MY DOMAIN!.
 - 👀 I’m interested in "DIGITAL DEVELOPMENT"
 - 🌱 I’m currently learning "PROGRAMMING"
 - 📫 How to reach me ON LINKEDIN: https://www.linkedin.com/in/walid-dra%C3%A2-5b64a121b/
