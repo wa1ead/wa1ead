@@ -41,7 +41,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wa1ead&show_icons=true&theme=dark" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wa1ead&show_icons=true&theme=transparent" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=wa1ead&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=wa1ead&style=for-the-badge">
